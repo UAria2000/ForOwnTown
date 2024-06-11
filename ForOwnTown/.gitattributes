@@ -1,0 +1,6 @@
+* text=auto > .gitattributes
+*.cs text eol=lf >> .gitattributes
+*.shader text eol=lf >> .gitattributes
+*.meta text eol=lf >> .gitattributes
+*.unity text eol=lf >> .gitattributes
+*.prefab text eol=lf >> .gitattributes
